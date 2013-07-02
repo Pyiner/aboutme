@@ -54,7 +54,7 @@
 
     自定义HTTP请求的内容，发送请求，支持方案保存，循环发送
 
-5. 博文采集站（http://paper.pyiner.com）
+5. 博文采集站（[http://paper.pyiner.com](http://paper.pyiner.com))
 
      定时抓取的博文采集网站，抓取博客园的精品文章
 
