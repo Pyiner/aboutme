@@ -25,14 +25,15 @@
 
 
 ----------
-1. 2年Python使用经验.熟悉Pygame，Wxpython，Requests,BeautifulSoup等库，用过gevent。熟悉PEP8编码规范。
-2. 熟练掌握 Web 开发相关知识,最常用的框架是Django
-3. 了解HTTP协议，会使用各种工具进行抓包和调试。
-4. 熟悉svn，git等版本管理工具。个人代码托管在github上（[https://github.com/Yiner](https://github.com/Yiner)）。
-5. 熟悉HTML CSS JS等前端开发的内容。
-6. 做过两年ACM竞赛，有很好的问题解决能力。
-7. 使用过linux，能在linux下工作
-8. 最近热衷Nodejs，正在学JS。
+1．2年Python使用经验.熟悉Pygame，Wxpython，Requests,BeautifulSoup等库，用过gevent。
+2．熟悉PEP8编码规范。
+3．熟练掌握 Web开发相关知识,最常用的框架是Django。
+4．了解HTTP协议，会使用各种工具进行抓包和调试。
+5．熟悉svn，git等版本管理工具。个人代码托管在github上（https://github.com/Yiner）。
+6．熟悉HTML CSS JS等前端开发的内容。熟悉Nodejs开发，尝试过nodewebkit。
+7．做过两年ACM竞赛，有很好的问题解决能力。
+8．使用过linux，能在linux下工作。
+9．熟悉restful API编程。
 
 
 
