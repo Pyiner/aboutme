@@ -25,7 +25,7 @@
 
 
 ----------
-1．2年Python使用经验.熟悉Pygame，Wxpython，Requests,BeautifulSoup等库，用过gevent。
+1．2年Python使用经验.Python相关的基本都了解，需要新东西能短时间学会。
 
 2．熟悉PEP8编码规范。
 
@@ -33,13 +33,13 @@
 
 4．了解HTTP协议，会使用各种工具进行抓包和调试。
 
-5．熟悉svn，git等版本管理工具。个人代码托管在github上（https://github.com/Yiner）。
+5．熟悉git，个人代码托管在github上（https://github.com/Yiner）。
 
 6．熟悉HTML CSS JS等前端开发的内容。熟悉Nodejs开发，尝试过nodewebkit。
 
 7．做过两年ACM竞赛，有很好的问题解决能力。
 
-8．使用过linux，能在linux下工作。
+8．个人习惯使用pycharm进行开发，但是在linux使用过linux，能在linux下工作。
 
 9．熟悉restful API编程。
 
@@ -47,7 +47,7 @@
 
 # 项  目  经  验 #
 ---------- 
-1. 个人博客系统（http://www.pyiner.com）——Django   2013-5
+1. 个人博客系统（http://www.pyiner.com）——Django   2013-5  （因为域名备案的问题，博客已经迁移到github上了，博客源代码在 https://github.com/Yiner/Blog）
 
     把博客从wordpress迁移到自己写的系统上，系统使用Django编写，搭建在BAE上。系统的详尽资料可见 : http://www.pyiner.com/category/Django/
 
@@ -55,28 +55,28 @@
 
   在消防器材上粘贴二维码，通过扫描二维码获取器材的ID，将ID上传到服务器获取器材资料，上传备注。还有对应的微信公众平台
 
-3. FTP检索工具——Python Wxpython 2012-3
-
-    检索FTP里的内容。
-
 4. HTTP Requsts Client——基于Wxpython  Requests 2013-3
 
     自定义HTTP请求的内容，发送请求，支持方案保存，循环发送
 
-5. 博文采集站（[http://paper.pyiner.com](http://paper.pyiner.com))
+5. 博文采集站（[http://blogpaper.duapp.com/](http://blogpaper.duapp.com/))
 
      定时抓取的博文采集网站，抓取博客园的精品文章
+
+以上为2013年7月份之前的项目，7月份之后先后在两家公司实习，主要涉及的内容有：
+Nodejs开发（接触的不深）
+Python服务器端开发（Django） 主要的工作为web api的实现，基于django admin的后台定制开发。
 
 # 获   奖   情   况 #
 
 ----------
 
 1. 吉林省ACM/ICPC程序设计竞赛一等奖。   
-1. 东北四省（含内蒙古）地区ACM程序设计竞赛三等奖。 
-1. 2010-2011学年度二等奖学金。
-1. 2011-2012学年度三等奖学金。
-1. 理想杯网页设计二等奖
-1. 理想杯程序设计三等奖
+2. 东北四省（含内蒙古）地区ACM程序设计竞赛三等奖。 
+3. 2010-2011学年度二等奖学金。
+4. 2011-2012学年度三等奖学金。
+5. 理想杯网页设计二等奖
+6. 理想杯程序设计三等奖
 
 # 自   我   评   价 #
 ----------
